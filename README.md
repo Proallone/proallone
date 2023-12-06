@@ -1,5 +1,5 @@
 
-## U+1F4BB; GitHub Stats
+## 💻; GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
 <img
