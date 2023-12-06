@@ -4,12 +4,12 @@
 <div style="display: flex; flex-direction: row;">
 <img
   align="center"
-  style="height: 200; width: 55%;"
+  style="height: 200vh; width: 55%;"
   src="https://github-readme-stats.vercel.app/api/?username=proallone&theme=one_dark_pro&show_icons=true"
 />
   <img
   align="center"
-  style="height: 200; width: 40%";
+  style="height: 200vh; width: 40%";
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=proallone&layout=donut&theme=one_dark_pro"
 />
 </div>
