@@ -1,5 +1,5 @@
 
-## 💻; GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
 <img
