@@ -8,7 +8,7 @@
     />
     <img
       align="center"
-      style="height: auto; width: 35%";
+      style="height: auto; width: 33%";
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=proallone&layout=donut&theme=one_dark_pro"
     />
 </div>
